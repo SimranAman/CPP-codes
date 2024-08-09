@@ -11,7 +11,7 @@ int main(){
     //string s = "abcba";
     //string New = s;
     
-    /*int n=s.size()-1;
+    int n=s.size()-1;
 
     int start=0;
     int end=n;
@@ -25,5 +25,5 @@ int main(){
   cout<<"Is palindrome"<<endl;
     }else{
         cout<<"Is not a palindrome"<<endl;
-    }*/
+    }
 }
