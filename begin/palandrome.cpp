@@ -3,13 +3,8 @@ using namespace std;
 
 int main(){
 
-    int a= 51221;
-    int n=a.size()-1;
-
-
-
-    //string s = "abcba";
-    //string New = s;
+    string s = "abcba";
+    string New = s;
     
     int n=s.size()-1;
 
